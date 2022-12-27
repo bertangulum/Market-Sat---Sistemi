@@ -1,0 +1,8 @@
+isim: bertangulum
+Soyisim: gulum
+Adres:  mahallesi
+Telefon Numarasi: 05372928373
+isim: bertangulum
+Soyisim: gulum
+Adres:  mah
+Telefon Numarasi: 05372928373
